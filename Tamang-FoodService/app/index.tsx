@@ -8,7 +8,7 @@ const App = () => {
   const slides = [
     {
       id: 1,
-      text: 'Welcome to My App!',
+      text: 'Welcome to My App! And Hello World',
       image: require('@/assets/images/plate1.png'), // Update the path to your image
     },
     {
